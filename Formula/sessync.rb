@@ -1,8 +1,8 @@
 class Sessync < Formula
   desc "Sync Claude Code sessions between Macs through your own storage, encrypted"
   homepage "https://github.com/latark/sessync"
-  url "https://github.com/latark/sessync/archive/refs/tags/v3.0.0.tar.gz"
-  sha256 "6e8f777a3ec5a0f84a79c71a1704861934050f0efaf18ecbd80fb26d6887a6da"
+  url "https://github.com/latark/sessync/archive/refs/tags/v3.0.1.tar.gz"
+  sha256 "5b897635a765463e50c56084c906973a3adf02316761d356f6010534185b3115"
   license "MIT"
 
   depends_on "jq"
